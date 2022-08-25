@@ -1,0 +1,1 @@
+- python*.* -m pip   确保安装到指定python目录下

@@ -1,0 +1,2 @@
+- Get：参数都在url中
+- Post：参数在数据包body中

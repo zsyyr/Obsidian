@@ -1,0 +1,136 @@
+{
+  "main": {
+    "id": "16436e3e5f239ede",
+    "type": "split",
+    "children": [
+      {
+        "id": "73e101c36bef534d",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d9720cd879b1d9e0",
+    "type": "split",
+    "children": [
+      {
+        "id": "386121642f26806a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a969cbc2380a2344",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "0ea8a6ee6b8f91ae",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9dfea57dec41f23a",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "56068f46ed076335",
+    "type": "split",
+    "children": [
+      {
+        "id": "012215701301f3fd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8c55dc7cbcd738ec",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "17b834d53cd65252",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b5a7ab6104df7838",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "51eae7196ff31811",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "73e101c36bef534d",
+  "lastOpenFiles": [
+    "VS Code Jypyter Lab.md",
+    "北邮-python编程-spider笔记2.md",
+    "multi_thread.md",
+    "kernelthread.jpg.md",
+    "北邮-python编程-spider笔记1.md",
+    "九评苏共中央的公开信.md",
+    "Xpath.md",
+    "The Hitchhiker's Guide to Python.md",
+    "document-object-model-1.webp",
+    "Get、Post区别.md"
+  ]
+}

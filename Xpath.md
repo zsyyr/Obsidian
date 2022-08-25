@@ -1,0 +1,6 @@
+- `//`从root开始的任意子节点
+- `.//`从当前开始的任意子节点
+- `path/`只能取path的直系子节点
+- Path Helper (chrome plugin)
+- ![[document-object-model-1.webp]]
+- 
